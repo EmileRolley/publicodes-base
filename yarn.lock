@@ -19,3 +19,8 @@ publicodes@^1.0.0-beta.71:
   version "1.0.0-beta.71"
   resolved "https://registry.yarnpkg.com/publicodes/-/publicodes-1.0.0-beta.71.tgz#662478db6460bf1348183c2e012c7b35b19a55c9"
   integrity sha512-m4JIdP3J1wncTmIAPFytZn2sv9y1vGL0BSJJdmsga8Un5q1GmRRZEo/BQGt8WKw2Mm8O14LuobdEV+g15h9Dcg==
+
+publicodes@^1.0.0-rc.5:
+  version "1.0.0-rc.5"
+  resolved "https://registry.yarnpkg.com/publicodes/-/publicodes-1.0.0-rc.5.tgz#714a600ccaa78ad89da878973999402e29996130"
+  integrity sha512-y5ZxhiBDf/GjSPE9iwoSlcwFNogqhxwl45LrVrGuWeIORgdALTdtHQaPgItQpaKVRSdsZei2GoCnsAIfqLCTJw==
